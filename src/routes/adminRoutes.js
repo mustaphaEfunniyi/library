@@ -65,8 +65,8 @@ function router(nav) {
 
       client.close();
     }());
-
   });
+
   return adminRouter;
 }
 
