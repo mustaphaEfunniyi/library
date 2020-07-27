@@ -10,12 +10,14 @@ const books = [
     title: 'The Wind in the willows',
     genre: 'Fantasy',
     author: 'Kenneth Graham',
+    bookId: 656,
     read: false,
   },
   {
     title: 'The Wind in the willows',
     genre: 'Fantasy',
     author: 'Kenneth Graham',
+    bookId: 24280,
     read: false,
   },
   {
